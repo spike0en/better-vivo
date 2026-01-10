@@ -171,3 +171,18 @@ Use the Digital Wellbeing trick to disable core apps that OriginOS prevents from
 - Note: Restricting background activity may prevent notifications; skip these settings for messaging or critical apps.
 
 ---
+
+## Blocking Ads and Telemetry
+
+### A. DNS Method (Recommended)
+Both options below provide approximately 300,000 free queries per month, which is sufficient for a single device. This method allows you to block ads and control telemetry sent to OEM servers.
+
+- **[Adguard DNS](https://adguard-dns.io/en/public-dns.html)** - 300k free queries per month.
+- **[NextDNS](https://nextdns.io/)** - 300k free queries per month.
+- **[ControlD](https://controld.com/)** - Paid DNS with advanced filtering features.
+
+### B. Local VPN / Firewall
+- **[AdGuard](https://adguard.com/en/adguard-android/overview.html)**: Comprehensive local filtering and ad-blocking.
+- **[RethinkDNS](https://rethinkdns.com/)**: Firewall + DNS to block individual apps from accessing the internet.
+
+---
