@@ -151,8 +151,8 @@ adb shell cmd package compile -m speed -f -a
 adb shell cmd package bg-dexopt-job
 ```
 
-### Restricting System Apps
-Use the Digital Wellbeing trick to disable core apps that OriginOS prevents from being disabled normally:
+### Restricting OEM Apps
+Use the [Digital Wellbeing trick](https://www.reddit.com/r/Vivo/comments/1m68zx8/finally_i_found_a_new_loophole_to_stop_bloatware/) to soft freeze OEM apps that OriginOS prevents from being disabled normally:
 1. Open the **Digital Wellbeing** app.
 2. Find the system apps you want to disable and set their **App Timer** to 0 minutes.
 3. The app icons will turn grayscale, and the apps will be prevented from launching.
