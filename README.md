@@ -16,3 +16,21 @@
 - Prior knowledge and research of the tools, utilities, and methods listed in this guide is expected from the users.
 
 ---
+
+## Pre-Requisites
+
+To implement these tweaks, you will need the following tools:
+
+### Desktop Tools
+- **[ADB App Control](https://adbappcontrol.com/en/#download)** - A powerful desktop app for managing Android applications.
+- **[UAD-NG](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)** - Universal Android Debloater Next Generation.
+- **[Platform Tools](https://developer.android.com/tools/releases/platform-tools)** - Official Google ADB/Fastboot binaries.
+
+### On-Device Tools
+- **[Shizuku Fork](https://github.com/thedjchi/Shizuku)** - Provides elevated permissions to apps without root.
+- **[Canta](https://github.com/samolego/Canta)** - A Shizuku-powered uninstaller to remove any app.
+- **[AppControl-X](https://github.com/risunCode/AppControl-X)** - Advanced app management and background control.
+- **[aShell](https://f-droid.org/en/packages/in.sunilpaulmathew.ashell/)** - A modern local ADB shell for Shizuku.
+- **[Hail](https://github.com/aistra0524/Hail)** - Freeze or force-stop apps to save resources.
+
+---
