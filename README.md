@@ -34,3 +34,34 @@ To implement these tweaks, you will need the following tools:
 - **[Hail](https://github.com/aistra0524/Hail)** - Freeze or force-stop apps to save resources.
 
 ---
+
+## ADB Environment Setup
+
+Ensure you have the Android Debug Bridge (ADB) installed and configured on your system.
+
+### Windows
+Using [WinGet](https://github.com/microsoft/winget-cli):
+```powershell
+winget install --id Google.PlatformTools --source winget
+```
+
+### Linux
+```bash
+# Ubuntu/Debian
+sudo apt install android-tools-adb
+# Fedora
+sudo dnf install android-tools
+# Arch Linux
+sudo pacman -S android-tools
+```
+
+### macOS
+Using [Homebrew](https://brew.sh/):
+```bash
+brew install android-platform-tools
+```
+
+### Device Drivers
+If your PC fails to recognize the device on Windows, install the official [Vivo MTP USB Driver](https://easyshare.vivo.com/drivers/driver_ex.exe).
+
+---
