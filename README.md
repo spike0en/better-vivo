@@ -186,3 +186,14 @@ Both options below provide approximately 300,000 free queries per month, which i
 - **[RethinkDNS](https://rethinkdns.com/)**: Firewall + DNS to block individual apps from accessing the internet.
 
 ---
+
+## Recommended System Settings
+
+| Setting | Recommended Value | Notes |
+| :--- | :--- | :--- |
+| **AI Acceleration Engine** | [Off](https://www.reddit.com/r/Vivo/comments/1pd7yqz/psa_on_vivo_x200_ultra_turning_off_ai_engine/) | AI deciding scheduling behaviours sounds weird! |
+| **ART++ Turbo** | [ON/OFF](https://www.reddit.com/r/Vivo/comments/1pd7yqz/psa_on_vivo_x200_ultra_turning_off_ai_engine/) | Experiment to find the best scenario for your device. |
+| **Smart Services** | Off | Enable only while using Office Kit. |
+| **Bypass Charging** | On | Enable during gaming sessions to reduce thermal throttling to some extent and protect the battery. |
+
+---
