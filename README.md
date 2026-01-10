@@ -77,7 +77,7 @@ Removing unnecessary system bloat helps to improve battery life and performance.
 ### Method A: Desktop Tools (PC Required)
 1. **ADB App Control**: 
    - [Official Docs](https://adbappcontrol.com/en/docs/) | [Setup Guide](https://www.youtube.com/watch?v=yGhM3gI5p4k)
-   - Import package names from [assets/preset/V2503-debloat.txt](assets/preset/V2503-debloat.txt).
+   - Import package names from [the provided debloat list](assets/preset/V2503-debloat.txt).
    - Review the selection and click **Disable** or **Uninstall**.
 2. **UAD-NG**:
    - [Usage Guide](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/Usage)
@@ -85,9 +85,8 @@ Removing unnecessary system bloat helps to improve battery life and performance.
 
 ### Method B: Canta (No PC Required)
 1. Set up Shizuku and grant access to Canta.
-2. Open [assets/preset/V2503-debloat.txt](assets/preset/V2503-debloat.txt) and copy the package names.
-3. In Canta: **Settings > Import > Paste from clipboard**.
-4. Review and execute removal.
+2. Select the desired packages for removal carefully and proceed with uninstallation.
+3. Users can refer to [this guide](https://www.youtube.com/watch?v=CFXRR-3pgBo) for more info.
 
 ---
 
