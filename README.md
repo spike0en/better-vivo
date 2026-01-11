@@ -192,11 +192,12 @@ Both options below provide approximately 300,000 free queries per month, which i
 
 ## Recommended System Settings
 
-| Setting | Recommended Value | Notes |
+| System Setting | Value | Notes |
 | :--- | :--- | :--- |
-| **AI Acceleration Engine** | [Off](https://www.reddit.com/r/Vivo/comments/1pd7yqz/psa_on_vivo_x200_ultra_turning_off_ai_engine/) | AI deciding scheduling behaviours sounds weird! |
-| **ART++ Turbo** | [ON/OFF](https://www.reddit.com/r/Vivo/comments/1pd7yqz/psa_on_vivo_x200_ultra_turning_off_ai_engine/) | Experiment to find the best scenario for your device. |
-| **Smart Services** | Off | Enable only while using Office Kit. |
-| **Bypass Charging** | On | Enable during gaming sessions to reduce thermal throttling to some extent and protect the battery. |
+| **AI Acceleration Engine** | Off | Avoids AI-driven scheduling behavior. |
+| **ART++ Turbo** | On / Off | Test both options to determine what works best for your device. |
+| **Autostart** | Allow / Not Allowed | Allow for apps requiring persistent notifications; disable others to reduce background battery drain. |
+| **Bypass Charging** | On | Use during gaming to reduce thermal throttling and help preserve battery health. |
+| **Smart Services** | Off | Enable only when using Office Kit. |
 
 ---
