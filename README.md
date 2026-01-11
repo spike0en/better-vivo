@@ -173,6 +173,11 @@ Use the [Digital Wellbeing trick](https://www.reddit.com/r/Vivo/comments/1m68zx8
 - Combine this with the system's "Restrict battery usage" setting for non-essential apps.
 - Note: Restricting background activity may prevent notifications; skip these settings for messaging or critical apps.
 
+### Fix Notification Delays
+- Refer to [this guide](https://www.reddit.com/r/Vivo/comments/1kdx8wt/receive_timely_notifications_for_vivo_phones/).
+- It was likely written for Funtouch OS but should also work on OriginOS.
+- Also make sure that autostart permission is granted for the respective apps from `Settings > Apps > Special app access > Autostart`.
+
 ---
 
 ## Blocking Ads and Telemetry
